@@ -8,9 +8,12 @@ This is my hobby.😍
 
 <h3 align="left"> 🤝 Connect with me:</h3>
 <p align= "left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohidulalam66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-ohidul-alam-06a506216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammadohidulalam.moa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/o_h_i_d_u_l//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/OaNoyon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mohammad-ohidul-alam)  
+<a href="https://twitter.com/oanoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oanoyon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hmohammad-ohidul-alam-06a506216/ttps://www.linkedin.com/in/mohammad-ohidul-alam-06a506216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmohammad-ohidul-alam-06a506216/ttps://www.linkedin.com/in/mohammad-ohidul-alam-06a506216/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mohammad-ohidul-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-ohidul-alam" height="30" width="40" /></a>
+<a href="https://fb.com/mohammadohidulalam.moa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadohidulalam.moa" height="30" width="40" /></a>
+<a href="https://instagram.com/o_h_i_d_u_l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_h_i_d_u_l/" height="30" width="40" /></a>
 </p>
-
 
 
 <h3 align="left">🧰 Languages and Tools:</h3>
