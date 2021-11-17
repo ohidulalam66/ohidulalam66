@@ -17,6 +17,7 @@
   <img src="https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67" alt="javascript" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/c80e85f44dce04441e9e4ad21e93a1484018683d4a1d330057916f471f8b0f28/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747970657363726970742e706e67" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/83e9bcc10b31433fd94d0f6f69dca057e1dec049925ab5107aa6dded90b733a7/68747470733a2f2f692e696d6775722e636f6d2f526335353458582e706e67" alt="react-bootstrap" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/04d74fa252ccfc767a20a5719365205c5251294b38c3d91d213491b24200e595/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f66697265626173652e706e67" alt="firebase" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
   <img src="https://camo.githubusercontent.com/8029ed4da3d86052f3a7d34f427908a92a2a94df452450cc0bf4a9f296289408/68747470733a2f2f692e696d6775722e636f6d2f484946354677792e6a7067" alt="express.js" width="40" height="40"/>
