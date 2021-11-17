@@ -14,7 +14,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://camo.githubusercontent.com/0174b03bab13c90e5673eaafbaa2cc273f8f0f8e70c39e660d0db9895f41f7ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" alt="tailwind" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/04d74fa252ccfc767a20a5719365205c5251294b38c3d91d213491b24200e595/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f66697265626173652e706e67" alt="firebase" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
  </p>
