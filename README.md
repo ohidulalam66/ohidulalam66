@@ -1,8 +1,8 @@
 ![Mohammad Ohidul Alam](https://pbs.twimg.com/profile_banners/1198875818824351744/1637134115/600x200)
 # Hi there 👋, I'm Mohammad Ohidul Alam😊
-#### A passionate junior web developer from Bangladesh
+### A Passionate Web Developer From Bangladesh
 
-I'm Mohammad Ohidul Alam from Bangladesh, and I work in web development. I really enjoy working as well as learning languages and frameworks like JS, feedback. Also, I have ideas about Bootstrap, React Bootstrap, Tailwind CSS, and Material UI about my design. Node JS, Express, and MongoDB also have ideas about the backend.
+I'm Mohammad Ohidul Alam from Bangladesh, and I work in web development. I really enjoy working as well as learning languages and frameworks like JS, React JS. Also, I have ideas about Bootstrap, React Bootstrap, Tailwind CSS, and Material UI about my Design. Node JS, Express, and MongoDB also have ideas about the backend.
 Lastly, I like to code.🌭
 This is my hobby.😍
 
@@ -40,4 +40,4 @@ This is my hobby.😍
 
 ![Mohammad Ohidul Alam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/ohidulalam66)  
+![Profile views](https://gpvc.arturio.dev/ohidulalam66&show_icons=true&theme=radical)  
