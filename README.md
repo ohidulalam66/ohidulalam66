@@ -6,8 +6,11 @@ I'm Mohammad Ohidul Alam from Bangladesh, and I work in web development. I reall
 Lastly, I like to code.🌭
 This is my hobby.😍
 
-###🤝 Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ohidulalam66)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-ohidul-alam-06a506216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mohammadohidulalam.moa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/o_h_i_d_u_l//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/OaNoyon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16846197/mohammad-ohidul-alam)
+<h3 align="left"> 🤝 Connect with me:</h3>
+<p align= "left">
+
+</p>
+
 
 
 <h3 align="left">🧰 Languages and Tools:</h3>
