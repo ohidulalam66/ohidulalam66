@@ -18,4 +18,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/04d74fa252ccfc767a20a5719365205c5251294b38c3d91d213491b24200e595/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f66697265626173652e706e67" alt="firebase" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
+  <img src="https://camo.githubusercontent.com/8029ed4da3d86052f3a7d34f427908a92a2a94df452450cc0bf4a9f296289408/68747470733a2f2f692e696d6775722e636f6d2f484946354677792e6a7067" alt="nodejs" width="40" height="40"/> 
  </p>
