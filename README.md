@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohammad Ohidul Alam😊
 #### A passionate junior web developer from Bangladesh
-![A passionate junior web developer from Bangladesh](https://i.im.ge/2021/11/17/obcD8P.png)
+<img src="https://i.im.ge/2021/11/17/obcD8P.png" width='200' height='100'/>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
