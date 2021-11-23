@@ -15,6 +15,7 @@ This is my hobby.😍
 <a href="https://instagram.com/o_h_i_d_u_l/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_h_i_d_u_l/" height="30" width="40" /></a>
 </p>
 
+<a href="https://ibb.co/hMg04yy"><img src="" alt="es6-logo-png-transparent" border="0"></a>
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
@@ -22,6 +23,7 @@ This is my hobby.😍
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" margin="30" height="40"/>  <img src="https://camo.githubusercontent.com/0174b03bab13c90e5673eaafbaa2cc273f8f0f8e70c39e660d0db9895f41f7ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f626f6f7473747261702e706e67" alt="tailwind" width="40" margin="30" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" margin="30" height="40"/>
   <img src="https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67" alt="javascript" width="40" margin="30" height="40"/>
+  <img src="https://i.ibb.co/VNL6ztt/es6-logo-png-transparent.png" alt="ES6" width="40" margin="30" height="40"/>
   <img src="https://camo.githubusercontent.com/c80e85f44dce04441e9e4ad21e93a1484018683d4a1d330057916f471f8b0f28/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f747970657363726970742e706e67" alt="typescript" width="40" margin="30" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" margin="30" height="40"/>
   <img src="https://camo.githubusercontent.com/83e9bcc10b31433fd94d0f6f69dca057e1dec049925ab5107aa6dded90b733a7/68747470733a2f2f692e696d6775722e636f6d2f526335353458582e706e67" alt="react-bootstrap" width="40" margin="30" height="40"/>
