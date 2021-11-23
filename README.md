@@ -15,8 +15,6 @@ This is my hobby.😍
 <a href="https://instagram.com/o_h_i_d_u_l/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o_h_i_d_u_l/" height="30" width="40" /></a>
 </p>
 
-<a href="https://ibb.co/hMg04yy"><img src="" alt="es6-logo-png-transparent" border="0"></a>
-
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" margin="30" height="40"/>
@@ -33,6 +31,7 @@ This is my hobby.😍
   <img src="https://camo.githubusercontent.com/8029ed4da3d86052f3a7d34f427908a92a2a94df452450cc0bf4a9f296289408/68747470733a2f2f692e696d6775722e636f6d2f484946354677792e6a7067" alt="express.js" width="40" margin="30" height="40"/>
   <img src="https://camo.githubusercontent.com/cc17c40cd9389b8922d36eeae6325c7e773d78fcb2583712b8474d3481604a22/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6f6e676f64622e706e67" alt="mongodb" width="40" margin="30" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" margin="30" height="40"/>
+  <img src="https://i.ibb.co/4YDwV8w/18133.png" alt="github" width="40" margin="30" height="40"/>
  </p>
 
 
