@@ -30,6 +30,7 @@ This is my hobby.😍
   <img src="https://camo.githubusercontent.com/cc17c40cd9389b8922d36eeae6325c7e773d78fcb2583712b8474d3481604a22/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6f6e676f64622e706e67" alt="mongodb" width="40" margin="30" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" margin="30" height="40"/>
   <img src="https://i.ibb.co/4YDwV8w/18133.png" alt="github" width="40" margin="30" height="40"/>
+  <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=74&color=currentColor" alt="github" width="40" margin="30" height="40"/>
  </p>
 
 
