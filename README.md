@@ -1,5 +1,5 @@
 ![Mohammad Ohidul Alam](https://pbs.twimg.com/profile_banners/1198875818824351744/1637134115/600x200)
-![Mohammad Ohidul Alam](https://i.ibb.co/TcLRnrK/Yellow-Motivational-Web-Developer-Facebook-Cover.png)
+![Mohammad Ohidul Alam](https://i.ibb.co/1Gp5gt2/Simple-Work-Linked-In-Banner.png)
 # Hi there 👋, I'm Mohammad Ohidul Alam😊
 ### A Passionate Junior Front-end Web Developer From Bangladesh
 
