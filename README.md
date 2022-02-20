@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohammad Ohidul Alam😊
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&color=%2386E8FF&size=26&width=500&lines=1+year+coding+experience;Always+explore+something+new;Frontend+Developer;React+JS+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
+
 I'm Mohammad Ohidul Alam from Bangladesh, and I work in Junior Front-end web development. I really enjoy working as well as learning languages and frameworks like JS, React JS. Also, I have ideas about Bootstrap, React Bootstrap, Tailwind CSS, and Material UI about my Design. Node JS, Express, and MongoDB also have ideas about the backend.
 Lastly, I like to code.🌭This is my hobby.😍
 
