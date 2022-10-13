@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-## 🙋‍♂️ About Me:
+## 🙋‍♂️ About Me :
 - 🌱 I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
@@ -16,7 +16,7 @@
 
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools :
 <div align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -71,7 +71,7 @@
 
 <br/>
   
- ## 🔗 Connect with me:
+ ## 🔗 Connect with me :
 <div align="left">
 <a href="https://twitter.com/oanoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oanoyon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-ohidul-alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-ohidul-alam/" height="30" width="40" /></a>
@@ -91,7 +91,7 @@
 
 <br/>
 
-## 🐍 Snake Eating My Contribution :
+## 🐍 A lot of food should be given to the Snake :
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/ohidulalam66/ohidulalam66/blob/output/github-contribution-grid-snake.svg">
   <br>
