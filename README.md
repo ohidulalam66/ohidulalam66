@@ -41,7 +41,7 @@
  <br/>
  
  <div align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/ohidulalam66/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ohidul Alam66's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ohidulalam66&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </div>
@@ -50,10 +50,23 @@
 
 ## 📈 My Github Stats :
 <p>
-    <div align="center">
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ohidul Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidulalam66&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Ohidul Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ohidulalam66&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    <div align="left">
+<a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <img align="right" alt="coding" width="300" src="https://i.postimg.cc/HsNfqbzR/ezgif-com-gif-maker.gif">
+</div>
+
+<br/>
+<br/>
+
+<div align="right">
+<a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidulalam66&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img align="left" alt="coding" width="300" src="https://i.postimg.cc/0yw2FkYG/ezgif-com-gif-maker-1.gif">
+</div>
+
+<br/>
+<br/>
+<div align="center">
+<a href="https://github.com/ohidulalam66/github-readme-activity-graph"><img alt="Ohidul Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ohidulalam66&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
 
 <br/>
@@ -73,7 +86,7 @@
 ## ✨ Views and Followers :
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ohidulalam66&label=Profile%20views&color=0e75b6&style=flat" alt="ohidulalam66" /> 
   <a href="https://twitter.com/oanoyon" target="blank"><img src="https://img.shields.io/twitter/follow/oanoyon?logo=twitter&style=for-the-badge" alt="oanoyon" /></a>
-  <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/ohidulalam66?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/ohidulalam66?tab=followers"><img src="https://img.shields.io/github/followers/ohidulalam66?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
 <br/>
