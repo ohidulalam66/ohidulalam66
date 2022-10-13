@@ -8,6 +8,23 @@
 
 <br/>
 
+<table border="2" align="center">
+ <tr>
+    <td><b style="font-size:30px">Things I like to do...</b></td>
+    <td><b style="font-size:30px">Devcard</b></td>
+ </tr>
+ <tr>
+    <td width="300">
+    <div width="500" float="left">
+<div>CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+<div>Solving Problems ✍️</div>
+<div>React (●'◡'●)</div>
+<div>JavaScript 😏</div>
+</div></td>
+    <td><img width="300" float="right" src="https://i.postimg.cc/3R1thDMP/h.png" width="400" alt="Ohidul Alam's Dev Card"/></td>
+ </tr>
+</table>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ## 🙋‍♂️ About Me :
