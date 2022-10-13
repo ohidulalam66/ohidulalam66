@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ohidul Alam</h1>
+<img align="right" alt="Coding" width="100%" src="https://i.postimg.cc/gJrQJDYv/math-proof-slider-3-2.gif">
+
+<br/>
+<br/>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Mohammad Ohidul Alam</h1>
 <h3 align="center">As a student I am learning about different languages of Computer Science. I Like to know and explore🍉</h3>
 
 <br/>
@@ -52,7 +57,7 @@
 <p>
     <div align="left">
 <a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      <img align="right" alt="coding" width="300" src="https://i.postimg.cc/HsNfqbzR/ezgif-com-gif-maker.gif">
+      <img align="right" alt="coding" width="300" src="https://i.postimg.cc/GhP7bNkW/1618976264-168461-gif-url.gif">
 </div>
 
 <br/>
@@ -60,7 +65,7 @@
 
 <div align="right">
 <a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidulalam66&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img align="left" alt="coding" width="300" src="https://i.postimg.cc/0yw2FkYG/ezgif-com-gif-maker-1.gif">
+  <img align="left" alt="coding" width="300" src="https://i.postimg.cc/K4SNmcWX/jigsaw-puzzle-unscreen.gif">
 </div>
 
 <br/>
