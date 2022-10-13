@@ -16,10 +16,10 @@
  <tr>
     <td width="300">
     <div width="500" float="left">
-<div>CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></div>
+<div>CPP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"></div>
 <div>Solving Problems ✍️</div>
 <div>React (●'◡'●)</div>
-<div>JavaScript 😏</div>
+<div>JavaScript <img src="https://i.postimg.cc/D0sHTwgs/jammies.gif" width="20" align="center"></div>
 </div></td>
     <td><img width="300" float="right" src="https://i.postimg.cc/3R1thDMP/h.png" width="400" alt="Ohidul Alam's Dev Card"/></td>
  </tr>
