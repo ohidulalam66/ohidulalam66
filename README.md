@@ -72,23 +72,20 @@
 
 ## 📈 My Github Stats :
 <p>
-    <div align="left">
+    <div align="center">
 <a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      <img align="right" alt="coding" width="300" src="https://i.postimg.cc/GhP7bNkW/1618976264-168461-gif-url.gif">
-</div>
-
-<br/>
-<br/>
-
-<div align="right">
 <a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohidulalam66&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img align="left" alt="coding" width="300" src="https://i.postimg.cc/K4SNmcWX/jigsaw-puzzle-unscreen.gif">
 </div>
+  
+<br/>
+<br/>
 
-<br/>
-<br/>
 <div align="center">
 <a href="https://github.com/ohidulalam66/github-readme-activity-graph"><img alt="Ohidul Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ohidulalam66&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div>
+
+<div align="center">
+<img alt="coding" width="300" src="https://i.postimg.cc/GhP7bNkW/1618976264-168461-gif-url.gif">
 </div>
 
 <br/>
