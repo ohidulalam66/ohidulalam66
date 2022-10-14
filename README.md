@@ -3,12 +3,12 @@
 <br/>
 <br/>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! I'm Mohammad Ohidul Alam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Mohammad Ohidul Alam</h1>
 <h3 align="center">As a student I am learning about different languages of Computer Science. I Like to know and explore🍉</h3>
 
 <br/>
 
-<table border="2" align="center">
+<table border="1" align="center">
  <tr>
     <td><b style="font-size:30px">Things I like to do...</b></td>
     <td><b style="font-size:30px">Devcard</b></td>
