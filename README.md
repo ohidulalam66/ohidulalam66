@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="">
+<img align="right" alt="Coding" width="100%" src="https://i.postimg.cc/gJrQJDYv/math-proof-slider-3-2.gif">
 
 <br/>
 <br/>
@@ -21,7 +21,7 @@
 <div>React<img src="https://i.postimg.cc/wTD4Lp72/robot.gif" width="30" align="center"></div>
 <div>JavaScript<img src="https://i.postimg.cc/D0sHTwgs/jammies.gif" width="20" align="center"></div>
 </div></td>
-    <td><img width="300" float="right" src="" width="400" alt="Ohidul Alam's Dev Card"/></td>
+    <td><img width="300" float="right" src="https://i.postimg.cc/3R1thDMP/h.png" width="400" alt="Ohidul Alam's Dev Card"/></td>
  </tr>
 </table>
 
