@@ -122,7 +122,7 @@
 
 <br/>
 
-## 🐍 A lot of food should be given to the Snake :
+## 🐍 Let the snake swallow :
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/ohidulalam66/ohidulalam66/blob/output/github-contribution-grid-snake.svg">
   <br>
