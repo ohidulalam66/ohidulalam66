@@ -90,6 +90,12 @@
 </div>
   
 <br/>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ohidulalam66&theme=github_dark"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ohidulalam66&theme=github_dark&utcOffset=8"/>
+</div>
+
 <br/>
 
 <div align="center">
