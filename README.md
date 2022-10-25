@@ -114,16 +114,18 @@
 <br/>
 <br/>
 
-<div align="center" >
-<img height="280em" src="https://raw.githubusercontent.com/ohidul_alam/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<div align="center">
+<img height="280em" src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+ </div>
+ 
+ <div align="center">
 <a href="https://codeforces.com/profile/ohidul_alam">
-    <img src="https://raw.githubusercontent.com/ohidul_alam/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-  
   <a href="https://codeforces.com/profile/ohidul_alam">
-    <img src="https://raw.githubusercontent.com/ohidul_alam/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
-  </div>
+</div>
 
 <br/>
 <br/>
