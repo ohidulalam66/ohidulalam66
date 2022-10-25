@@ -107,13 +107,8 @@
 </div>
 
 <br/>
-<br/>
 
-## 📈 Competitive Programming
-
-<br/>
-<br/>
-
+## 📈 Competitive Programming :
 <div align="center">
 <img height="280em" src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
  </div>
@@ -127,7 +122,6 @@
   </a>
 </div>
 
-<br/>
 <br/>
   
  ## 🔗 Connect with me :
