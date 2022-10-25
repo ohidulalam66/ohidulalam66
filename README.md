@@ -86,10 +86,6 @@
 <a href="https://github.com/ohidulalam66/github-readme-activity-graph"><img alt="Ohidul Alam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ohidulalam66&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
 
-<div align="center">
-<img alt="coding" width="300" src="https://i.postimg.cc/GhP7bNkW/1618976264-168461-gif-url.gif">
-</div>
-
 <br/>
 
 ## <img alt="coding" width="30" src="https://i.ibb.co/ZL3rJdS/code-forces.png"> Competitive Programming :
