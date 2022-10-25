@@ -14,7 +14,7 @@
 
 - <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
 
-- <img src="https://i.postimg.cc/FshjL0XK/bowling.gif" width="30" align="center"> I’m looking to collaborate on **MERN Stack Projects**
+- <img src="https://i.postimg.cc/CK44tJg9/rocket.gif" width="30" align="center"> I’m looking to collaborate on **MERN Stack Projects**
 
 - <img src="https://i.postimg.cc/MTy9WxV3/butterfly.gif" width="30" align="center"> How to reach me **mdohidul.alam15@gmail.com**
 
