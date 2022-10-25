@@ -115,17 +115,7 @@
 <br/>
 
 <div align="center" >
-  
- <!-- Codeforces Stats Card Started-->
-
 <img height="280em" src="https://raw.githubusercontent.com/ohidul_alam/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-
-<!-- Codeforces Stats Card Ended-->
-
-<!-- Codeforces Ratings Max && Currents Started  -->
-
-<div>
-
 <a href="https://codeforces.com/profile/ohidul_alam">
     <img src="https://raw.githubusercontent.com/ohidul_alam/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
@@ -133,11 +123,6 @@
   <a href="https://codeforces.com/profile/ohidul_alam">
     <img src="https://raw.githubusercontent.com/ohidul_alam/cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
-
-</div>
-
-  <!-- Codeforces Ratings Max && Currents Ended  -->
-
   </div>
 
 <br/>
