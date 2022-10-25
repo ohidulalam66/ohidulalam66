@@ -1,4 +1,4 @@
-<img justify-content="center" alt="Coding" width="50%" src="https://i.postimg.cc/1RMX33wk/Merge-sort.gif"/>
+<img justify-content="center" alt="Coding" width="100%" src="https://i.postimg.cc/sX8pntCm/Math.gif"/>
 
 <br/>
 
