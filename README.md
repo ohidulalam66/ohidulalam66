@@ -1,40 +1,24 @@
 <img align="right" alt="Coding" width="100%" src="https://i.postimg.cc/8C7JVpcb/d1nno8d-364adddf-a168-44a1-b5e5-db7e2e779331.gif">
 
 <br/>
-<br/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Mohammad Ohidul Alam</h1>
 <h3 align="center">As a student I am learning about different languages of Computer Science. I Like to know and explore🍉</h3>
 
 <br/>
 
-<table border="1" align="center">
- <tr>
-    <td><b style="font-size:30px">Things I like to do...</b></td>
-    <td><b style="font-size:30px">Devcard</b></td>
- </tr>
- <tr>
-    <td width="300">
-    <div width="500" float="left">
-<div>CPP<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"></div>
-<div>Solving Problems<img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"></div>
-<div>React<img src="https://i.postimg.cc/wTD4Lp72/robot.gif" width="30" align="center"></div>
-<div>JavaScript<img src="https://i.postimg.cc/D0sHTwgs/jammies.gif" width="20" align="center"></div>
-</div></td>
-    <td><img width="300" float="right" src="https://i.postimg.cc/5N4mWJmH/hero-2.jpg" width="400" alt="Ohidul Alam's Dev Card"/></td>
- </tr>
-</table>
-
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ## 🙋‍♂️ About Me :
-- 🌱 I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> Currently I am solving problems with **C/C++**.
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
 
-- 📫 How to reach me **mdohidul.alam15@gmail.com**
+- <img src="https://i.postimg.cc/FshjL0XK/bowling.gif" width="30" align="center"> I’m looking to collaborate on **MERN Stack Projects**
 
-- ⚡ Fun fact **I like to think about my own Personality and Fitness**
+- <img src="https://i.postimg.cc/MTy9WxV3/butterfly.gif" width="30" align="center"> How to reach me **mdohidul.alam15@gmail.com**
+
+- <img src="https://i.postimg.cc/D0sHTwgs/jammies.gif" width="20" align="center"> Fun fact **I like to think about my own Personality and Fitness**
 
 <br/>
 
