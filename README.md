@@ -108,7 +108,7 @@
 
 <br/>
 
-## 📈 Competitive Programming :
+## <img alt="coding" width="30" src="https://i.ibb.co/ZL3rJdS/code-forces.png"> Competitive Programming :
 <div align="center">
 <img height="280em" src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
  </div>
