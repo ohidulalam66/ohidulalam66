@@ -1,4 +1,4 @@
-<img alt="Banner" width="100%" src="https://i.postimg.cc/RhF1NB5Q/Git-Hub-Banner.gif"/>
+<img alt="Banner" width="100%" src="https://i.postimg.cc/9XwQjQkm/Banner.png"/>
 
 <br/>
 
