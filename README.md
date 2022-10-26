@@ -1,4 +1,4 @@
-<img justify-content="center" alt="Coding" width="100%" src="https://i.postimg.cc/sX8pntCm/Math.gif"/>
+<img alt="Banner" width="100%" src="https://i.postimg.cc/yYLWYZvR/Git-Hub-Banner.gif"/>
 
 <br/>
 
