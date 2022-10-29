@@ -6,12 +6,12 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-## 🙋‍♂️ About Me :
+## <img alt="coding" width="40" src="https://i.postimg.cc/QxfmTxRz/man-raising-hand.gif"> About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> Currently I am solving problems with **C/C++**.
 
 - <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
 
-- <img src="https://i.postimg.cc/CK44tJg9/rocket.gif" width="30" align="center"> I’m looking to collaborate on **MERN Stack Projects**
+- <img src="https://i.postimg.cc/3NThmZD3/flying-saucer.gif" width="30" align="center"> I’m looking to collaborate on **MERN Stack Projects**
 
 - <img src="https://i.postimg.cc/MTy9WxV3/butterfly.gif" width="30" align="center"> How to reach me **mdohidul.alam15@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🚀 Languages and Tools :
+## <img alt="coding" width="40" src="https://i.postimg.cc/dVv7w8HP/rocket.gif"> Languages and Tools :
 <div align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -85,7 +85,7 @@
 
 <br/>
 
-## <img alt="coding" width="30" src="https://i.ibb.co/ZL3rJdS/code-forces.png"> Competitive Programming :
+## <img alt="coding" width="30" src="https://i.postimg.cc/qMmqnz4W/giphy.gif"> Competitive Programming :
 <div align="center">
 <img height="280em" src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
  </div>
