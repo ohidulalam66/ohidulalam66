@@ -85,7 +85,7 @@
 
 <br/>
 
-## <img alt="coding" width="30" src="https://i.postimg.cc/qMmqnz4W/giphy.gif"> Competitive Programming :
+## <img alt="coding" width="40" src="https://i.postimg.cc/qMmqnz4W/giphy.gif"> Competitive Programming :
 <div align="center">
 <img height="280em" src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
  </div>
@@ -121,7 +121,7 @@
 
 <br/>
 
-## 🐍 Let the snake swallow :
+## <img alt="coding" width="40" src="https://i.postimg.cc/jjyDv9bD/snake-1.gif"> Let the snake swallow :
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/ohidulalam66/ohidulalam66/blob/output/github-contribution-grid-snake.svg">
   <br>
