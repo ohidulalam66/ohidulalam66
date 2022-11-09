@@ -63,7 +63,7 @@
 
 <br/>
 
-## 📈 My Github Stats :
+## <img alt="coding" width="40" src="https://i.postimg.cc/CMtxXNXz/graph.gif"> My Github Stats :
 <p>
     <div align="center">
 <a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
