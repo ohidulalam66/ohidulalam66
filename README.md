@@ -101,7 +101,7 @@
 
 <br/>
   
- ## <img alt="coding" width="40" src="https://i.postimg.cc/ZRFc9nNd/fist-bump-emojis.gif"> Connect with me :
+ ## <img alt="coding" width="50" src="https://i.postimg.cc/ZRFc9nNd/fist-bump-emojis.gif"> Connect with me :
 <div align="left">
 <a href="https://twitter.com/oanoyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oanoyon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-ohidul-alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-ohidul-alam/" height="30" width="40" /></a>
