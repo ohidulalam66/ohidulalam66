@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-## <img alt="coding" width="40" src="https://i.postimg.cc/QxfmTxRz/man-raising-hand.gif"> About Me :
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/tCgFfP46/contact.gif"> About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> Currently I am solving problems with **C/C++**.
 
 - <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
@@ -19,7 +19,7 @@
 
 <br/>
 
-## <img alt="coding" width="40" src="https://i.postimg.cc/dVv7w8HP/rocket.gif"> Languages and Tools :
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/Z5S4nPvB/Language.gif"> Languages and Tools :
 <div align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -63,7 +63,7 @@
 
 <br/>
 
-## <img alt="coding" width="40" src="https://i.postimg.cc/CMtxXNXz/graph.gif"> My Github Stats :
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/3r6s4rGs/Growth-Chart.gif"> My Github Stats :
 <p>
     <div align="center">
 <a href="https://github.com/ohidulalam66/github-readme-stats"><img alt="Ohidul Alam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ohidulalam66&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -90,7 +90,7 @@
 
 <br/>
 
-## <img alt="coding" width="40" src="https://i.postimg.cc/qMmqnz4W/giphy.gif"> Competitive Programming :
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/qRHtvHLy/Column-Up.gif"> Competitive Programming :
 <div align="center">
 <img height="280em" src="https://raw.githubusercontent.com/ohidulalam66/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
  </div>
@@ -106,7 +106,7 @@
 
 <br/>
   
- ## <img alt="coding" width="50" src="https://i.postimg.cc/ZRFc9nNd/fist-bump-emojis.gif"> Connect with me :
+ ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/g2K85JqQ/Connection.gif"> Connect with me :
 <div align="center">
  <a href="https://codeforces.com/profile/ohidul_alam" target="blank"><img align="center" src="https://i.postimg.cc/P5Ht4zBJ/Code-Forces.gif" alt="ohidul_alam" height="80" width="80" /></a>
  <a href="#" target="blank"><img align="center" src="https://i.postimg.cc/JzzNGJPD/Leetcode.gif" alt="oanoyon" height="80" width="80" /></a>
@@ -119,7 +119,7 @@
 
 <br/>
 
-## <img alt="coding" width="30" src="https://i.postimg.cc/MKXMPrqR/XVnx.gif"> Views and Followers :
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/YCttXqSv/Star-1.gif"> Views and Followers :
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ohidulalam66&label=Profile%20views&color=0e75b6&style=flat" alt="ohidulalam66" /> 
   <a href="https://twitter.com/oanoyon" target="blank"><img src="https://img.shields.io/twitter/follow/oanoyon?logo=twitter&style=for-the-badge" alt="oanoyon" /></a>
   <a href="https://github.com/ohidulalam66?tab=followers"><img src="https://img.shields.io/github/followers/ohidulalam66?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -127,7 +127,7 @@
 
 <br/>
 
-## <img alt="coding" width="40" src="https://i.postimg.cc/jjyDv9bD/snake-1.gif"> Let the snake swallow :
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/gk7SnwbR/Dice.gif"> Let the snake swallow :
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/ohidulalam66/ohidulalam66/blob/output/github-contribution-grid-snake.svg">
   <br>
