@@ -127,7 +127,7 @@
 
 <br/>
 
-## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/gk7SnwbR/Dice.gif"> Let the snake swallow :
+## <img alt="coding" width="60" height="60" align="center" src="https://i.postimg.cc/gk7SnwbR/Dice.gif"> Let the snake swallow :
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/ohidulalam66/ohidulalam66/blob/output/github-contribution-grid-snake.svg">
   <br>
