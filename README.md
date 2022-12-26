@@ -119,7 +119,7 @@
 
 <br/>
 
-## <img alt="coding" width="60" height="60" align="center" src="https://i.postimg.cc/YCttXqSv/Star-1.gif"> Views and Followers :
+## <img alt="coding" width="60" height="60" align="center" src="https://i.postimg.cc/N02pRsBn/Star.gif"> Views and Followers :
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ohidulalam66&label=Profile%20views&color=0e75b6&style=flat" alt="ohidulalam66" /> 
   <a href="https://twitter.com/oanoyon" target="blank"><img src="https://img.shields.io/twitter/follow/oanoyon?logo=twitter&style=for-the-badge" alt="oanoyon" /></a>
   <a href="https://github.com/ohidulalam66?tab=followers"><img src="https://img.shields.io/github/followers/ohidulalam66?label=Followers&style=social" alt="GitHub Badge"></a>
