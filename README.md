@@ -1,5 +1,5 @@
 <img alt="Banner" width="100%" src="https://i.postimg.cc/5tD4CDCZ/final-github-banner-1.png"/>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Mohammad Ohidul Alam</h1>
+<h1 align="center">Hi <img src="https://ibb.co.com/ZzgdQLn5" width="30px">I'm Mohammad Ohidul Alam</h1>
 <h3 align="center">As a student I am learning about different languages of Computer Science. I Like to know and explore🍉</h3>
 
 <br/>
