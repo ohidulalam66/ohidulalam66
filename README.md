@@ -1,17 +1,17 @@
 <img alt="Banner" width="100%" src="https://i.postimg.cc/5tD4CDCZ/final-github-banner-1.png"/>
 <h1 align="center">Hi <img src="https://ibb.co.com/ZzgdQLn5" width="30px">I'm Mohammad Ohidul Alam</h1>
-<h3 align="center">As a student I am learning about different languages of Computer Science. I Like to know and explore🍉</h3>
+<h3 align="center">AI Engineer | Exploring Machine Learning, Deep Learning & Intelligent Systems 🤖</h3>
 
 <br/>
 
 <img align="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ## <img alt="coding" width="60" height="60" align="center" src="https://i.postimg.cc/tCgFfP46/contact.gif"> About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> Currently I am solving problems with **C/C++**.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> I'm an **AI Engineer** working with **Python**, **Machine Learning**, and **Deep Learning** to build intelligent, data-driven systems.
 
-- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I’m currently learning **Solving Problems in Several Online Judges & Data Structures and Algorithms.**
+- <img src="https://i.postimg.cc/wv0g6Ndt/man-juggling.gif" width="30" align="center"> I'm currently learning **Machine Learning, Deep Learning, and Data Structures & Algorithms**, and sharpening my skills by solving problems on online judges.
 
-- <img src="https://i.postimg.cc/3NThmZD3/flying-saucer.gif" width="30" align="center"> I’m looking to collaborate on **MERN Stack Projects**
+- <img src="https://i.postimg.cc/3NThmZD3/flying-saucer.gif" width="30" align="center"> I'm looking to collaborate on **AI/ML Projects** and **MERN Stack Projects**
 
 - <img src="https://i.postimg.cc/MTy9WxV3/butterfly.gif" width="30" align="center"> How to reach me **mdohidul.alam15@gmail.com**
 
@@ -21,6 +21,13 @@
 
 ## <img alt="coding" width="60" height="60" align="center" src="https://i.postimg.cc/Z5S4nPvB/Language.gif"> Languages and Tools :
 <div align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -33,7 +40,6 @@
  <a href="https://desyui.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/tg8LXVmd/download-removebg-preview.png" alt="desyui" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://expressjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="expressjs" width="40" height="40"/> </a>
